@@ -3,7 +3,7 @@
 //  Clima
 //
 //  Created by Simranjeet  Singh on 2019-10-18.
-//  Copyright © 2019 App Brewery. All rights reserved.
+//  Copyright © 2019 Simranjeet Singh. All rights reserved.
 //
 
 import Foundation
